@@ -1,4 +1,4 @@
-                                                                    Movie-Recommendation-system
+Movie-Recommendation-system
 Basic info about this project:
 
 Movie recommendation system is performed on the TMDB Dataset  on the basis of content based filtering this project gives us top five movies form our recent search to develop the to acquire the customer. 
@@ -30,3 +30,4 @@ then at the end we create the recommendation function we gives five movies as ou
 Web application :
 
 after that project we dump the files using pickle for the web application  which we use by creating the streamilt in the pycharm enviromnent 
+
